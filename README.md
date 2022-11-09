@@ -1,4 +1,5 @@
 # geo.ai: Object Extraction from Satellite Images
+### U-Net convnet with LCNN loss
 
 Latest Updates:
 1. Code added to visualise dataset. Run data_visualization.ipynb and fix the mask overlay for better visualization.
